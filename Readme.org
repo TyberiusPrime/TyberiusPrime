@@ -1,22 +1,12 @@
-* Welcome to my profile
-* I'm are trying to use [[https://github.com/kristijanhusak/orgmode.nvim][org-mode]] in nvim for my readme.
-* Here is an aquarium
-
-#+BEGIN_SRC
-🐟　　　 🐟 🐟　　　　
-　　　　　　　　　　
-　　　　　　　 🐟　　
-　　　 🐟　　　　　　
-　　　　　　　　　　
-　　　🗿　　　　🌿
-#+END_SRC
-
-
-
-| Test table | column2 |
-|------------|--------:|
-| entry      |      12 |
-|------------|---------|
-
-
-
+* Welcome to my humble github abode.
+** currently learning [[https://github.com/kristijanhusak/orgmode.nvim][org-mode]] in nvim by using it for this page.
+** Here is an aquarium
+ 
+ #+BEGIN_SRC
+ 🐟　　　 🐟 🐟　　　　
+ 　　　　　　　　　　
+ 　　　　　 🐟　　
+ 　　 🐟　　　　　　
+ 　　　　　　　　　　
+ 　🗿　　　　🌿
+ #+END_SRC
