@@ -1,5 +1,4 @@
 * Welcome to my humble github abode.
-** currently learning org-mode!
 
 ** Here is an aquarium
  
